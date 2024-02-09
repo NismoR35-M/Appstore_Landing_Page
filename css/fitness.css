@@ -168,10 +168,11 @@ a{
     background-position: 100% 50%;
 }
 .page2 .wrap{
-    background-color: #4F5B83;
-    background-image: url("../images/section_bg2.jpg");
-    background-position: 0 50%;
+    background-color: #1e1e1e;
+    background-image: url("../images/pointingRight.png");
+    background-position: 0% 50%;
 }
+
 .page3 .wrap{
     background-color: #fefcef;
     background-image: url("../images/section_bg3.jpg");
