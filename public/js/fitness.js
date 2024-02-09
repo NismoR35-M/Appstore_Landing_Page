@@ -5,6 +5,7 @@ $(function(){
     rem = wW * whdef;
     $('html').css('font-size', rem + "px");
 
+
     $(window).resize(function () {
         // 随窗口大小改变修改字体大小;
         if (window.innerWidth <= 750) {
